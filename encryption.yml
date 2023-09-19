@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: encryption
 
 encryption:
   payloadEncKey: 47gbrJFGy0nSGWFv/HxgFLYfS7vIDgBzTmbAsiUM/wo=
