@@ -1,0 +1,17 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Gbadegesin Accounts related Production APIs"
+  contactDetails:
+    name: "Idris Gbadegesin Adelabu - IT Support"
+    email: "idrisadelabu@gmail.com"
+  onCallSupport:
+    - (803) 056-0186
+    - (803) 078-0181
