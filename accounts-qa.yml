@@ -1,0 +1,17 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Gbadegesin Accounts related QA  APIs"
+  contactDetails:
+    name: "Diisu Adelabu - QA Lead"
+    email: "diisuadelabu@gmail.com"
+  onCallSupport:
+    - (803) 012-0186
+    - (803) 034-0181
