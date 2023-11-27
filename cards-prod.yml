@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Gbadegesin Cards related Production APIs"
+  message: "Welcome to Gbadegesin Cards related Testing Production APIs"
   contactDetails:
     name: "Idris Gbadegesin Adelabu - IT Support"
     email: "idrisadelabu@gmail.com"
