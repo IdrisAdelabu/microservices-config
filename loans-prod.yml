@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Gbadegesin Loans related Production APIs"
+  message: "Welcome to Gbadegesin Loans related Testing Production APIs"
   contactDetails:
     name: "Idris Gbadegesin Adelabu - IT Support"
     email: "idrisadelabu@gmail.com"
