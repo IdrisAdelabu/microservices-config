@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Gbadegesin Accounts related Testing Production APIs"
+  message: "Welcome to Gbadegesin Accounts related Production APIs"
   contactDetails:
     name: "Idris Gbadegesin Adelabu - IT Support"
     email: "idrisadelabu@gmail.com"
