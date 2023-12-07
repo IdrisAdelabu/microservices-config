@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Gbadegesin Cards related webhook APIs"
+  message: "Welcome to Gbadegesin Cards related production APIs"
   contactDetails:
     name: "Idris Gbadegesin Adelabu - IT Support"
     email: "idrisadelabu@gmail.com"
